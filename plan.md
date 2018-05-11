@@ -80,3 +80,23 @@ permalink: /japan/
 |출국수속|오후 03:00||오후 03:30|
 |비행기 이동|오후 05:10|사가공항|오후 06:40|인천공항국제선
 |석식|오후 08:00||오후 09:00|
+
+## 방문 장소 리스트	
+|이름|주소|비고|
+|---|---|---|
+|요시노가리 공원|일본 〒842-0035 Saga-ken, Kanzaki District, 吉野ヶ里町田手1843|https://www.welcomekyushu.or.kr/event/?mode=detail&id=9999900000838&isSpot=1&isEvent=|
+|돈테이|838-3 Yoshida, 吉野ヶ里町 Yoshinogari-chō, Kanzaki-gun, Saga-ken 842-0031 일본|우동집 입니다.|
+|삿포로 맥주공장|6979 Takase, Hita-shi, Ōita-ken 877-0054 일본|http://www.kyushu-style.com/travel/2717|
+|산가 료칸|869-2402 熊本県阿蘇郡南小国町大字満願寺6961-1|https://m.blog.naver.com/PostView.nhn?blogId=hikaritour&logNo=220736207128&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F|
+|스시에이|3 Chome-3-6 Saifu, Dazaifu-shi, Fukuoka-ken 818-0117 일본|http://diner.tistory.com/2229|
+|다자이후 텐만구|일본 〒818-0117 Fukuoka-ken, Dazaifu-shi, Saifu, 4 Chome−7, 太宰府市宰府4丁目7番1号|https://yokanavi.com/ko/spot/26988/|
+|고묘젠지|2 Chome-16-1 Saifu, Dazaifu-shi, Fukuoka-ken 818-0117 일본|https://yokanavi.com/ko/spot/26987/|
+|마츠야|2 Chome-6-12 Saifu, Dazaifu-shi, Fukuoka-ken 818-0117 일본|찻집 입니다.|
+|도쵸지|2-4 Gokushomachi, Hakata-ku, Fukuoka-shi, Fukuoka-ken 812-0037 일본|https://yokanavi.com/ko/spot/26928/|
+|에어비엔비 숙소|1 Chome-14-4 Tani Chūō-ku, Fukuoka-shi, Fukuoka-ken 810-0031|숙소에요.|
+|돈마이|캐널시티 내 위치|https://donmai.owst.jp/foods|
+|조식|4 Chome-2-6 Ropponmatsu, Chūō-ku, Fukuoka-shi, Fukuoka-ken 810-0044 일본|적당한 식사|
+|캐널시티|일본 〒812-0018 Fukuoka-ken, Fukuoka-shi, Hakata-ku, Sumiyoshi, 1 Chome−2, 福岡市博多区住吉１丁目２|쇼핑몰 입니다.|
+|오호리공원|1-2 Ōhorikōen, Chūō-ku, Fukuoka-shi, Fukuoka-ken 810-0051 일본|숙소앞에 위치한 거대한 공원입니다.|
+|가라쓰성|８-8-1 Higashijōnai, Karatsu-shi, Saga-ken 847-0016 일본|https://www.japanhoppers.com/ko/kyushu_okinawa/karatsu/kanko/278/|
+|중식||가라쓰 주변 밥이나 정식|
