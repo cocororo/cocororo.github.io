@@ -1,9 +1,8 @@
 ---
 layout: page
-title: japan trip plan
+title: 2018 일본 가족여행 계획
 permalink: /japan/
 ---
-# 2018 일본 가족여행 계획
 
 ## 준비물
 
